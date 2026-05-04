@@ -162,6 +162,26 @@ ContextCut-PRO adds a split-panel live dashboard, integrated streaming chat, per
 
 ---
 
+## Free vs PRO
+
+| Feature                        | Free | PRO |
+| ------------------------------ | :--: | :-: |
+| Semantic RAG injection         |  ✅  | ✅  |
+| MIN_SCORE threshold filtering  |  ✅  | ✅  |
+| Ingest + watch mode            |  ✅  | ✅  |
+| Basic dashboard                |  ✅  | ✅  |
+| Split-panel live dashboard     |  —   | ✅  |
+| Integrated streaming chat      |  —   | ✅  |
+| Per-message token analytics    |  —   | ✅  |
+| Ollama model selector          |  —   | ✅  |
+| Commercial usage rights        |  —   | ✅  |
+| Priority support               |  —   | ✅  |
+| Advanced context-cutting rules |  —   | ✅  |
+
+[Upgrade to PRO →](https://5984630877416.gumroad.com/l/ContextCut-Pro)
+
+---
+
 ## License
 
 MIT License — free for personal, educational, and open source use.
